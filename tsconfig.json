@@ -9,5 +9,5 @@
     "module": "none"
   },
   "include": ["./sketch/**.ts"],
-  "files": ["global.d.ts", "./sketch/calcHeight.ts"]
+  "files": ["global.d.ts"]
 }
